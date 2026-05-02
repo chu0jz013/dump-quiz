@@ -118,6 +118,10 @@ C. Data can be easily monopolized.
 D. Data can fuel algorithmic technologies.
 
 AD
+Not studied (339)
+You haven't studied these terms yet!
+
+Select these 339
 
 
 Why is a model that has been overfitted to its training data a source of fairness risk?(NHUNG HOÀNG)
@@ -526,7 +530,7 @@ Your business handles the personal data of California residents. Which of the fo
 
 A. COPPA
 B. OECD Privacy Guidelines
-C. COPPA
+C. CCAP
 D. PCI DSS
 C
 

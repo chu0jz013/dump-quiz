@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "question": "Which of the following principles are most commonly cited in AI-based ethical frameworks?",
     "options": {
       "A": "Happiness and spiritual contentment",
@@ -10,6 +11,7 @@
     "answer": "D"
   },
   {
+    "id": 2,
     "question": "Which of the following are common key performance indicators (KPIs) within dashboards of data-driven systems? (Select two.)",
     "options": {
       "A": "Earnings before interest, taxes, depreciation, and amortization (EBITDA)",
@@ -20,6 +22,7 @@
     "answer": "BC"
   },
   {
+    "id": 3,
     "question": "Which of the following is an important reason for continually refreshing an organization's internal and external ethics policies?",
     "options": {
       "A": "It helps maintain alignment of the policies with the cultural and contextual values of the organization's employees.",
@@ -30,6 +33,7 @@
     "answer": "B"
   },
   {
+    "id": 4,
     "question": "Which of the following are advantages to adopting standards frameworks like ISO 27000? (Select two.)",
     "options": {
       "A": "Formal certification processes that provide competitive advantage",
@@ -40,6 +44,7 @@
     "answer": "AD"
   },
   {
+    "id": 5,
     "question": "Which of the following would be the most beneficial stage to hold ethical risk reviews for a new project that your team is undertaking?",
     "options": {
       "A": "Conception",
@@ -50,6 +55,7 @@
     "answer": "A"
   },
   {
+    "id": 6,
     "question": "Which of the following are effective strategies when making statements on social media? (Select two.)",
     "options": {
       "A": "Communicating only as needed",
@@ -60,6 +66,7 @@
     "answer": "BD"
   },
   {
+    "id": 7,
     "question": "Which of the following is a potential benefit of having an ethical organizational culture?",
     "options": {
       "A": "More employees are likely to switch careers.",
@@ -70,6 +77,7 @@
     "answer": "B"
   },
   {
+    "id": 8,
     "question": "Which of the following are key principles of privacy by design? (Select two.)",
     "options": {
       "A": "Organizations must incorporate privacy protections throughout the project lifecycle.",
@@ -80,6 +88,7 @@
     "answer": "AD"
   },
   {
+    "id": 9,
     "question": "Why is it important to categorize ethical risks into different types? (Select two.)",
     "options": {
       "A": "It makes it easier for us to identify and manage different types of risks.",
@@ -90,6 +99,7 @@
     "answer": "AB"
   },
   {
+    "id": 10,
     "question": "Which of the following best describes why data is sometimes compared to oil? (Select two.)",
     "options": {
       "A": "Data can be monetarily valuable.",
@@ -100,6 +110,7 @@
     "answer": "AD"
   },
   {
+    "id": 11,
     "question": "Why is a model that has been overfitted to its training data a source of fairness risk?",
     "options": {
       "A": "Because the model is too complex.",
@@ -110,6 +121,7 @@
     "answer": "C"
   },
   {
+    "id": 12,
     "question": "Which of the following describes an ethical framework?",
     "options": {
       "A": "Ethical frameworks apply meta-ethical theories to everyday business operations.",
@@ -120,6 +132,7 @@
     "answer": "D"
   },
   {
+    "id": 13,
     "question": "Which of the following provide a user with more meaningful choices regarding how their data is being used? (Select two.)",
     "options": {
       "A": "Whether the data is used by a person of a certain gender",
@@ -130,6 +143,7 @@
     "answer": "CD"
   },
   {
+    "id": 14,
     "question": "Which of the following is an essential asset that helps to operationalize the internal and external ethics policies via procedures?",
     "options": {
       "A": "A description of the procedures in the annual report of the organization.",
@@ -140,6 +154,7 @@
     "answer": "C"
   },
   {
+    "id": 15,
     "question": "Which of the following describes personhood?",
     "options": {
       "A": "Personhood is often used to dictate how something is treated.",
@@ -150,6 +165,7 @@
     "answer": "A"
   },
   {
+    "id": 16,
     "question": "Which of the following is an important concept to consider as part of building an organizational philosophy?",
     "options": {
       "A": "Adopting philosophies already created by other organizations",
@@ -160,6 +176,7 @@
     "answer": "B"
   },
   {
+    "id": 17,
     "question": "Which of the following are likely to be found within a penetration test rules of engagement (ROE)? (Select two.)",
     "options": {
       "A": "What systems may be targeted",
@@ -170,6 +187,7 @@
     "answer": "AD"
   },
   {
+    "id": 18,
     "question": "Which of the following is an important action needed for the finalization of internal and external ethics policies before approval?",
     "options": {
       "A": "Discarding open issues to provide a clean slate for the next iteration of the policies",
@@ -180,6 +198,7 @@
     "answer": "D"
   },
   {
+    "id": 19,
     "question": "Which of the following best describes a marketing persona?",
     "options": {
       "A": "A description of a type of character based upon demographics, habits, and interests",
@@ -190,6 +209,7 @@
     "answer": "A"
   },
   {
+    "id": 20,
     "question": "If you are attempting to build a new framework for the research and development (R&D) of AI, which of the following frameworks might you look at first for its emphasis in this area?",
     "options": {
       "A": "The G20 AI Principles",
@@ -200,6 +220,7 @@
     "answer": "D"
   },
   {
+    "id": 21,
     "question": "Why is deciding how to act using moral reasoning not always a feasible goal for human beings?",
     "options": {
       "A": "Most people are not educated on normative ethical theories and therefore cannot perform true moral reasoning.",
@@ -210,6 +231,7 @@
     "answer": "D"
   },
   {
+    "id": 22,
     "question": "How can you leverage emerging technologies like AI in disaster recovery plans (DRP)?",
     "options": {
       "A": "By using deep learning techniques to bolster the organization's defense against disasters.",
@@ -220,6 +242,7 @@
     "answer": "C"
   },
   {
+    "id": 23,
     "question": "Which of the following is an example of applied ethics?",
     "options": {
       "A": "Professional ethics",
@@ -230,6 +253,7 @@
     "answer": "A"
   },
   {
+    "id": 24,
     "question": "Which type of edge case is caused by data outside the normal distribution?",
     "options": {
       "A": "Errors",
@@ -240,6 +264,7 @@
     "answer": "D"
   },
   {
+    "id": 25,
     "question": "Which of the following are important qualities of a press release? (Select two.)",
     "options": {
       "A": "It's concise",
@@ -250,6 +275,7 @@
     "answer": "AB"
   },
   {
+    "id": 26,
     "question": "How can confirmation bias impact us socially? (Select two.)",
     "options": {
       "A": "It can prevent us from being social with other people.",
@@ -260,6 +286,7 @@
     "answer": "BD"
   },
   {
+    "id": 27,
     "question": "Which of the following describes extrajudicial judgment?",
     "options": {
       "A": "A ruling or scoring made outside of a court.",
@@ -270,6 +297,7 @@
     "answer": "A"
   },
   {
+    "id": 28,
     "question": "Which of the following is a problematic reason to pilot a code of ethics prior to widespread deployment?",
     "options": {
       "A": "The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities.",
@@ -280,6 +308,7 @@
     "answer": "A"
   },
   {
+    "id": 29,
     "question": "The Children's Online Privacy Protection Act (COPPA) safeguards the privacy of which age group's personal information?",
     "options": {
       "A": "Anyone under 18 years old",
@@ -290,6 +319,7 @@
     "answer": "B"
   },
   {
+    "id": 30,
     "question": "What is the purpose of a holding statement in crisis and media communications?",
     "options": {
       "A": "To pre-write communications before they are needed",
@@ -300,6 +330,7 @@
     "answer": "A"
   },
   {
+    "id": 31,
     "question": "Which of the following helps to ensure that internal and external ethics policies are adhered to in practice?",
     "options": {
       "A": "Having unambiguous procedures tied to the clauses of the policy.",
@@ -310,6 +341,7 @@
     "answer": "A"
   },
   {
+    "id": 32,
     "question": "Which of the following statements are promoted by the categorical imperative? (Select three.)",
     "options": {
       "A": "Act in such a way that your actions may become a universal law.",
@@ -320,6 +352,7 @@
     "answer": "ACD"
   },
   {
+    "id": 33,
     "question": "Which of the following describes why explainability is important?",
     "options": {
       "A": "It is necessary so that internal stakeholders can understand how a system works.",
@@ -330,6 +363,7 @@
     "answer": "B"
   },
   {
+    "id": 34,
     "question": "Which of the following might be a risk of not having an ethical organizational culture?",
     "options": {
       "A": "Employees might face cognitive dissonance.",
@@ -340,6 +374,7 @@
     "answer": "A"
   },
   {
+    "id": 35,
     "question": "Which of the following benefits can be gained from establishing baseline system behaviors? (Select two.)",
     "options": {
       "A": "Optimizing costs of operation",
@@ -350,6 +385,7 @@
     "answer": "CD"
   },
   {
+    "id": 36,
     "question": "Which of the following is a formative ethics theory that states that maximizing happiness is the primary standard for determining what is right or wrong?",
     "options": {
       "A": "Categorical imperative",
@@ -360,6 +396,7 @@
     "answer": "B"
   },
   {
+    "id": 37,
     "question": "Which of the following statements accurately describes the philosophical concept of predeterminism?",
     "options": {
       "A": "All events, past, present, and future, are determined in advance.",
@@ -370,6 +407,7 @@
     "answer": "A"
   },
   {
+    "id": 38,
     "question": "Which of the following is a transparency risk of closed source software?",
     "options": {
       "A": "Closed source software includes obfuscated code that cannot be read by a human.",
@@ -380,6 +418,7 @@
     "answer": "D"
   },
   {
+    "id": 39,
     "question": "Which of the following describes the purpose of having an Ethics Board for a data-driven organization?",
     "options": {
       "A": "An Ethics Board can help maintain an organization's values-based intentions and decrease the inherent dangers of autonomous technologies.",
@@ -390,6 +429,7 @@
     "answer": "C"
   },
   {
+    "id": 40,
     "question": "You're training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed—the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model?",
     "options": {
       "A": "Recall",
@@ -400,6 +440,7 @@
     "answer": "A"
   },
   {
+    "id": 41,
     "question": "Which of the following describes the AI Fairness 360 project?",
     "options": {
       "A": "An AI product that represents a completely fair model for AI practitioners to use as a benchmark.",
@@ -410,6 +451,7 @@
     "answer": "D"
   },
   {
+    "id": 42,
     "question": "Which of the following are reasons to design, develop, and deploy a code of ethics within an organization? (Select two).",
     "options": {
       "A": "It compels employees to operate in an ethical and integral manner.",
@@ -420,6 +462,7 @@
     "answer": "AD"
   },
   {
+    "id": 43,
     "question": "Which type of bias causes people to trust an automated decision-making system (ADS) over a human's decision?",
     "options": {
       "A": "Automation bias",
@@ -430,6 +473,7 @@
     "answer": "A"
   },
   {
+    "id": 44,
     "question": "Which of the following is an explainability risk of self-learning models?",
     "options": {
       "A": "Self-learning models are unable to generate decisions as output.",
@@ -440,6 +484,7 @@
     "answer": "B"
   },
   {
+    "id": 45,
     "question": "Which school of philosophical thought primarily advocates for the greatest good for the greatest amount of people?",
     "options": {
       "A": "Kantian ethics",
@@ -450,7 +495,20 @@
     "answer": "B"
   },
   {
-    "question": "Which of the following describe how adopting ethical practices can be a strategic differentiator? (Select three.) E. It will build customer trust. ACE How does increasing AI performance often conflict with the desire for explainability?",
+    "id": 46,
+    "question": "Which of the following describe how adopting ethical practices can be a strategic differentiator? (Select three.)",
+    "options": {
+      "A": "It will encourage applicants to apply for your company.",
+      "B": "It will ensure you comply with regulations.",
+      "C": "It will support the development of strategic partnerships.",
+      "D": "It will reduce your business obligations toward customers and business partners.",
+      "E": "It will build customer trust."
+    },
+    "answer": "ACE"
+  },
+  {
+    "id": 47,
+    "question": "How does increasing AI performance often conflict with the desire for explainability?",
     "options": {
       "A": "Increasing AI performance sometimes reduces the transparency of input data used in training, making it more difficult to explain decision-making processes.",
       "B": "Increasing AI performance sometimes leads to certain evaluation metrics no longer being useful, making it more difficult to explain decision-making processes.",
@@ -460,16 +518,18 @@
     "answer": "C"
   },
   {
+    "id": 48,
     "question": "Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company's files?",
     "options": {
       "A": "COPPA",
       "B": "OECD Privacy Guidelines",
-      "C": "COPPA",
+      "C": "CCAP",
       "D": "PCI DSS"
     },
     "answer": "C"
   },
   {
+    "id": 49,
     "question": "Which of the following is an important reason to have a policy owner for internal and external ethics policies ?",
     "options": {
       "A": "They can help to prevent changes from taking place in the policies over time by justifying their choices.",
@@ -480,6 +540,7 @@
     "answer": "D"
   },
   {
+    "id": 50,
     "question": "How can sentiment analysis be useful in social media communication?",
     "options": {
       "A": "It can shape the content and delivery of the message based on users' perceptions of the organization or technology.",
@@ -490,6 +551,7 @@
     "answer": "A"
   },
   {
+    "id": 51,
     "question": "Is an open door policy equivalent to ensuring employee voice?",
     "options": {
       "A": "Yes, because both allow employees to speak up.",
@@ -500,6 +562,7 @@
     "answer": "D"
   },
   {
+    "id": 52,
     "question": "Which of the following is a best practice when participating in media inquiries?",
     "options": {
       "A": "Divulge only the information that you are required to by law",
@@ -510,6 +573,7 @@
     "answer": "D"
   },
   {
+    "id": 53,
     "question": "Which of the following is the most important idea that a crisis communication program should manage?",
     "options": {
       "A": "The individual details of a crisis",
@@ -520,6 +584,7 @@
     "answer": "D"
   },
   {
+    "id": 54,
     "question": "Why does the trolley problem pose an ethical predicament?",
     "options": {
       "A": "The moral responsibility is split between you and the person controlling the trolley.",
@@ -530,6 +595,7 @@
     "answer": "B"
   },
   {
+    "id": 55,
     "question": "Which of the following is a noted difference between a certificate and a certification?",
     "options": {
       "A": "Certifications are issued by industry certification bodies.",
@@ -540,6 +606,7 @@
     "answer": "A"
   },
   {
+    "id": 56,
     "question": "How does a smart contract differ from a traditional contract?",
     "options": {
       "A": "Smart contracts eliminate the need for a central authority.",
@@ -550,6 +617,7 @@
     "answer": "A"
   },
   {
+    "id": 57,
     "question": "Which of the following are ways that regulations differ from ethical frameworks? (Select two.)",
     "options": {
       "A": "Regulations provide a clear basis for potential litigation.",
@@ -560,6 +628,7 @@
     "answer": "AB"
   },
   {
+    "id": 58,
     "question": "Which of the following elements might be considered moderately affected in an Impact Level 2 Algorithmic Impact Assessment? (Select two.)",
     "options": {
       "A": "A brief delay in the conveyance of a commercial transaction.",
@@ -570,6 +639,7 @@
     "answer": "BD"
   },
   {
+    "id": 59,
     "question": "What does \"ethics by design\" mean?",
     "options": {
       "A": "A creative design approach as the focus for ethics.",
@@ -580,6 +650,7 @@
     "answer": "B"
   },
   {
+    "id": 60,
     "question": "How does the \"virtuous cycle\" that benefits Big Tech operate?",
     "options": {
       "A": "Better classes of customers lead to richer and more refined data for algorithmic systems.",
@@ -590,6 +661,7 @@
     "answer": "D"
   },
   {
+    "id": 61,
     "question": "Which of the following is the most important ethical consideration regarding technical developments like deepfakes?",
     "options": {
       "A": "They take away monetization opportunities, leaving individuals unfairly compensated for their data.",
@@ -600,6 +672,7 @@
     "answer": "D"
   },
   {
+    "id": 62,
     "question": "Which of the following is a best practice for incorporating diversity, equity, and inclusiveness in communication?",
     "options": {
       "A": "Ensure multiple groups of people based on race, gender, etc., are communicating in different ways",
@@ -610,6 +683,7 @@
     "answer": "D"
   },
   {
+    "id": 63,
     "question": "What does the acronym CSIRT stand for in a security context?",
     "options": {
       "A": "Conformance strategy, immutability, reliability, trustworthiness",
@@ -620,6 +694,7 @@
     "answer": "D"
   },
   {
+    "id": 64,
     "question": "Which of the following sources does a SIEM system typically pull data from? (Select two.)",
     "options": {
       "A": "Personnel emails",
@@ -630,6 +705,7 @@
     "answer": "CD"
   },
   {
+    "id": 65,
     "question": "Which of the following describes an opt-out policy in regards to the collection of private data?",
     "options": {
       "A": "Data about the user is always collected, regardless of the user's consent.",
@@ -640,6 +716,7 @@
     "answer": "D"
   },
   {
+    "id": 66,
     "question": "What is the fundamental attribution error?",
     "options": {
       "A": "When you believe your chances of experiencing something negative are lower and your chances of experiencing something positive are higher than others.",
@@ -650,7 +727,20 @@
     "answer": "C"
   },
   {
-    "question": "Which of the following are tasks in the overall risk management process? (Select three.)E. Analysis ACE At what point should ethical consideration ideally be applied to emerging technologies?",
+    "id": 67,
+    "question": "Which of the following are tasks in the overall risk management process? (Select three.)",
+    "options": {
+      "A": "Mitigation",
+      "B": "Deployment",
+      "C": "Identification",
+      "D": "Elimination",
+      "E": "Analysis"
+    },
+    "answer": "ACE"
+  },
+  {
+    "id": 68,
+    "question": "At what point should ethical consideration ideally be applied to emerging technologies?",
     "options": {
       "A": "Upon delivery, with appropriate warranties where necessary.",
       "B": "During periodic reviews, with ongoing customer feedback solicited.",
@@ -660,6 +750,7 @@
     "answer": "C"
   },
   {
+    "id": 69,
     "question": "You have a dataset of customers that includes each customer's gender, location, and other personal attributes. The label you are trying to predict is how much sales revenue each customer is likely to generate for the business based on these attributes. What type of machine learning outcome is this problem suited for?",
     "options": {
       "A": "Classification",
@@ -670,6 +761,7 @@
     "answer": "D"
   },
   {
+    "id": 70,
     "question": "What is the difference between beneficence and non-maleficence?",
     "options": {
       "A": "Beneficence refers to \"do only good\" and non-maleficence refers to \"do no harm.\"",
@@ -680,6 +772,7 @@
     "answer": "A"
   },
   {
+    "id": 71,
     "question": "Which of the following is a valid reason for tracking the number and severity of an organization's ethical violations?",
     "options": {
       "A": "It can dissuade end users from scrutinizing the internal and external ethics policies.",
@@ -690,6 +783,7 @@
     "answer": "D"
   },
   {
+    "id": 72,
     "question": "What is the purpose of differential privacy?",
     "options": {
       "A": "To only allow certain parties to access certain portions of the data.",
@@ -700,6 +794,7 @@
     "answer": "B"
   },
   {
+    "id": 73,
     "question": "Which of the following describes the technique of homomorphic encryption?",
     "options": {
       "A": "A method of mitigating biased algorithms through enhanced secrecy.",
@@ -710,6 +805,7 @@
     "answer": "D"
   },
   {
+    "id": 74,
     "question": "What causes bias?",
     "options": {
       "A": "Biases are caused by the opinions of our families.",
@@ -720,6 +816,7 @@
     "answer": "D"
   },
   {
+    "id": 75,
     "question": "Which of the following best describes the use case for zero-knowledge protocols (ZKPs)?",
     "options": {
       "A": "Handling divide-by-zero errors in computing software",
@@ -730,6 +827,7 @@
     "answer": "B"
   },
   {
+    "id": 76,
     "question": "Why is the question of robot rights and emancipation one that isn't as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks?",
     "options": {
       "A": "Humans are anthropocentric and don't want to extend rights to other sentient entities.",
@@ -740,6 +838,7 @@
     "answer": "B"
   },
   {
+    "id": 77,
     "question": "Which of the following is the most important argument in favor of content moderation in online platforms?",
     "options": {
       "A": "It prevents the spread of disinformation that can cause harm to vulnerable populations.",
@@ -750,6 +849,7 @@
     "answer": "A"
   },
   {
+    "id": 78,
     "question": "You want to solicit feedback from users who are seeking explanations about your AI products and services. So, you decide to place a form on your marketing website that users can fill out. Which of the following is the best way to structure that form for the purpose of collecting useful feedback?",
     "options": {
       "A": "Provide a series of yes or no questions with radio buttons where users select their respective answers.",
@@ -760,6 +860,7 @@
     "answer": "B"
   },
   {
+    "id": 79,
     "question": "To which of the following groups would a code of ethics not be applicable?",
     "options": {
       "A": "Business managers of the data-driven technology system",
@@ -770,6 +871,7 @@
     "answer": "B"
   },
   {
+    "id": 80,
     "question": "Which of the following elements should be communicated with end users when negotiating ethical access to a user's data? (Select two.)",
     "options": {
       "A": "A request for consent to perform an action",
@@ -780,6 +882,7 @@
     "answer": "AC"
   },
   {
+    "id": 81,
     "question": "Which organizational resource is most commonly used in terms of fostering an ethical organizational culture?",
     "options": {
       "A": "Informational resources",
@@ -790,6 +893,7 @@
     "answer": "B"
   },
   {
+    "id": 82,
     "question": "Why are groups like race and religion considered protected classes?",
     "options": {
       "A": "These groups have been used as the basis for wholesale discrimination.",
@@ -800,6 +904,7 @@
     "answer": "A"
   },
   {
+    "id": 83,
     "question": "Which of the following are possible causes of the limited adoption of a code of ethics within an organization? (Select two).",
     "options": {
       "A": "Comprehensive coverage of areas of concerns by the code of ethics",
@@ -810,6 +915,7 @@
     "answer": "BC"
   },
   {
+    "id": 84,
     "question": "Which of the following are important elements of the data minimization principle? (Select two.)",
     "options": {
       "A": "Only delete data that can be easily replaced",
@@ -820,6 +926,7 @@
     "answer": "BD"
   },
   {
+    "id": 85,
     "question": "Which of the following negative consequences is the direct result of failing to be truthful in communicating about a crisis?",
     "options": {
       "A": "Reputational damage",
@@ -830,6 +937,7 @@
     "answer": "A"
   },
   {
+    "id": 86,
     "question": "Why are anonymization and pseudonymization insufficient protection measures against breaches of data privacy and security?",
     "options": {
       "A": "They don't integrate well into data science and machine learning workflows.",
@@ -840,6 +948,7 @@
     "answer": "D"
   },
   {
+    "id": 87,
     "question": "The organization needs to ask itself about any quality control issues it may be having. Which of the following processes is most suitable for asking and answering that question?",
     "options": {
       "A": "Business impact assessment",
@@ -850,6 +959,7 @@
     "answer": "C"
   },
   {
+    "id": 88,
     "question": "When you deliver periodic statements about a crisis to the media, what should the first statement do?",
     "options": {
       "A": "Provide in-depth details about the situation",
@@ -860,6 +970,7 @@
     "answer": "D"
   },
   {
+    "id": 89,
     "question": "A disruptive user on a social media site is subjected to a shadow ban. Which of the following might be an indication of that shadow ban?",
     "options": {
       "A": "A user logs in one day to find a message from a site administrator saying that the user has been banned.",
@@ -870,6 +981,7 @@
     "answer": "D"
   },
   {
+    "id": 90,
     "question": "Which of the following are likely examples of a leverageable third party data-driven or data-related product? (Select two.)",
     "options": {
       "A": "Data annotation and augmentation tools",
@@ -880,6 +992,7 @@
     "answer": "AB"
   },
   {
+    "id": 91,
     "question": "Which of the following are logical arguments in favor of an organization maintaining compliance? (Select two.)",
     "options": {
       "A": "Long-term cost savings due to avoiding fines",
@@ -890,6 +1003,7 @@
     "answer": "AD"
   },
   {
+    "id": 92,
     "question": "Which of the following presents the most important argument for why we need to consider the impact of AI on labor in the design, development, and deployment of data-driven technology?",
     "options": {
       "A": "There may be an impact on worker productivity if they are not included in all phases.",
@@ -900,6 +1014,7 @@
     "answer": "B"
   },
   {
+    "id": 93,
     "question": "Which of the following describes change management?",
     "options": {
       "A": "A collective term for all approaches to prepare, support, and help individuals, teams, and organizations in fostering an ethical organizational culture.",
@@ -910,6 +1025,7 @@
     "answer": "D"
   },
   {
+    "id": 94,
     "question": "Which of the following elements constitute PII? (Select two.)",
     "options": {
       "A": "Telephone numbers",
@@ -920,6 +1036,7 @@
     "answer": "AD"
   },
   {
+    "id": 95,
     "question": "In the context of open data, what is FAIR?",
     "options": {
       "A": "An acronym for finance accoutability intelligence research.",
@@ -930,6 +1047,7 @@
     "answer": "D"
   },
   {
+    "id": 96,
     "question": "What are the duties of an ethics board for data-driven technology organizations?",
     "options": {
       "A": "Develop resources to be used in ethical decision-making processes.",
@@ -940,6 +1058,7 @@
     "answer": "C"
   },
   {
+    "id": 97,
     "question": "Which of the following are tools of an effective media communication plan? (Select two.)",
     "options": {
       "A": "Mission statement",
@@ -950,6 +1069,7 @@
     "answer": "BC"
   },
   {
+    "id": 98,
     "question": "Which of the following are transport encryption protocols? (select two.)",
     "options": {
       "A": "SSH",
@@ -960,6 +1080,7 @@
     "answer": "AB"
   },
   {
+    "id": 99,
     "question": "Which approach to corporate governance is more likely to create an ethical organizational culture?",
     "options": {
       "A": "A systemic approach with incentive systems.",
@@ -970,6 +1091,7 @@
     "answer": "A"
   },
   {
+    "id": 100,
     "question": "Which of the following is a technique used by the Python tool Alibi to produce a subset of features that will usually result in the same model prediction?",
     "options": {
       "A": "Anchor Explanations",
@@ -980,6 +1102,7 @@
     "answer": "A"
   },
   {
+    "id": 101,
     "question": "Which subset of transparency involves describing the system to a non-expert?",
     "options": {
       "A": "Explainability",
@@ -990,6 +1113,7 @@
     "answer": "A"
   },
   {
+    "id": 102,
     "question": "Which of the following risk analysis methods use words like \"likely,\" \"unlikely,\" and \"rare\" to describe the likelihood of risk, and words like \"low,\" \"medium,\" and \"high\" to describe the impact of risk? (Select two.)",
     "options": {
       "A": "Qualitative analysis",
@@ -1000,6 +1124,7 @@
     "answer": "AB"
   },
   {
+    "id": 103,
     "question": "How is employee voice different than open door policy?",
     "options": {
       "A": "Open door policy follows up with people to show how changes were implemented based on their communication.",
@@ -1008,6 +1133,7 @@
     "answer": "B"
   },
   {
+    "id": 104,
     "question": "When conducting a business impact assessment (BIA), why is it important to interview or survey personnel at the ground level, not just managers and other higher-ups?",
     "options": {
       "A": "They may have more institutional knowledge about a subject than managers.",
@@ -1018,6 +1144,7 @@
     "answer": "A"
   },
   {
+    "id": 105,
     "question": "Which of the following is a key element of communications with internal and external stakeholders regarding an organization's ethics policies?",
     "options": {
       "A": "Simple to follow examples",
@@ -1028,7 +1155,20 @@
     "answer": "A"
   },
   {
-    "question": "Which of the following constitute internal stakeholders in the context of a code of ethics?A (internal - deisgners external - regulators) If you are doing an analysis of data to determine which of several small businesses you should purchase to gain the maximum benefit to your overall company finances, what type of analysis are you doing?",
+    "id": 106,
+    "question": "Which of the following constitute internal stakeholders in the context of a code of ethics?",
+    "options": {
+      "A": "Designers",
+      "B": "Regulators",
+      "C": "Data subjects",
+      "D": "Policymakers"
+    },
+    "answer": "A",
+    "note": "(internal - deisgners\nexternal - regulators)"
+  },
+  {
+    "id": 107,
+    "question": "If you are doing an analysis of data to determine which of several small businesses you should purchase to gain the maximum benefit to your overall company finances, what type of analysis are you doing?",
     "options": {
       "A": "Predictive",
       "B": "Cumulative",
@@ -1038,6 +1178,7 @@
     "answer": "C"
   },
   {
+    "id": 108,
     "question": "Which of the following are important aspects of resolving complex and confounding business pressures? (Select two.)",
     "options": {
       "A": "Managing expectations that not everyone can get what they want, when they want it",
@@ -1048,6 +1189,7 @@
     "answer": "AD"
   },
   {
+    "id": 109,
     "question": "Which of the following describes dual-use or multipurpose data?",
     "options": {
       "A": "Data that can be easily shared with a partner or family member for mutual enjoyment.",
@@ -1058,6 +1200,7 @@
     "answer": "C"
   },
   {
+    "id": 110,
     "question": "Why do smart toys raise additional ethical concerns over those that are raised in the course of other products and services that use AI?",
     "options": {
       "A": "Children are more susceptible to manipulation and therefore need extra protective measures.",
@@ -1068,6 +1211,7 @@
     "answer": "A"
   },
   {
+    "id": 111,
     "question": "Which of the following accurately describes the measures of central tendency in a normal distribution?",
     "options": {
       "A": "The mean is higher than both the median and mode.",
@@ -1078,6 +1222,7 @@
     "answer": "D"
   },
   {
+    "id": 112,
     "question": "Why are deep learning and machine learning called narrow? Select two options.",
     "options": {
       "A": "Narrow can only perform the specific tasks it was designed to do.",
@@ -1087,6 +1232,7 @@
     "answer": "AB"
   },
   {
+    "id": 113,
     "question": "Which of the following are typically true when comparing the LIME tool with the SHAP tool? (Select two.)",
     "options": {
       "A": "LIME outputs results faster than SHAP.",
@@ -1097,6 +1243,7 @@
     "answer": "AB"
   },
   {
+    "id": 114,
     "question": "Which of the following are cost functions used to evaluate linear regression models? (Select two.)",
     "options": {
       "A": "Accuracy",
@@ -1107,6 +1254,7 @@
     "answer": "BC"
   },
   {
+    "id": 115,
     "question": "Why is suspicion a pitfall in communicating ethical risks to society?",
     "options": {
       "A": "Suspicion leads to use technologies ineffective.",
@@ -1117,6 +1265,7 @@
     "answer": "C"
   },
   {
+    "id": 116,
     "question": "How does the low likelihood of a crisis relate to its potential impact?",
     "options": {
       "A": "A crisis with low likelihood tends to have high impact.",
@@ -1127,6 +1276,7 @@
     "answer": "A"
   },
   {
+    "id": 117,
     "question": "What is the capability caution?",
     "options": {
       "A": "We need to take steps to ensure that humans capabilities are not limited by Al growth.",
@@ -1137,6 +1287,7 @@
     "answer": "B"
   },
   {
+    "id": 118,
     "question": "Which of the following is a case study that best represents the principle of professional responsibility?",
     "options": {
       "A": "The Asilomar AI Principles' definition of capability caution",
@@ -1147,6 +1298,7 @@
     "answer": "B"
   },
   {
+    "id": 119,
     "question": "Which of the following are pitfalls in communicating risks to the organization? (Select two.)",
     "options": {
       "A": "Having a disjointed message.",
@@ -1157,6 +1309,7 @@
     "answer": "AC"
   },
   {
+    "id": 120,
     "question": "Which of the following are potential training data inadequacies that you should communicate to your users in support of transparency? (Select two.)",
     "options": {
       "A": "The amount of time it took to collect the data.",
@@ -1167,6 +1320,7 @@
     "answer": "BD"
   },
   {
+    "id": 121,
     "question": "Which of the following is a benefit of using focus groups over surveys?",
     "options": {
       "A": "They allow for deeper engagement with the target demographic community.",
@@ -1177,6 +1331,7 @@
     "answer": "A"
   },
   {
+    "id": 122,
     "question": "In using AI-enabled solutions within the context of medical imaging analysis, which of the following is the most important ethical consideration?",
     "options": {
       "A": "Explainability",
@@ -1187,6 +1342,7 @@
     "answer": "A"
   },
   {
+    "id": 123,
     "question": "If you were to place the task \"Apply security patch to system\" on an attack tree diagram, what category would it be assigned to?",
     "options": {
       "A": "Threat",
@@ -1197,6 +1353,7 @@
     "answer": "C"
   },
   {
+    "id": 124,
     "question": "Which of the following best describes capability caution as referenced in the Asilomar AI Principles?",
     "options": {
       "A": "Should there be a greater reliance on AI, measures should be taken to ensure that humans are still capable of finding work.",
@@ -1207,6 +1364,7 @@
     "answer": "D"
   },
   {
+    "id": 125,
     "question": "What make ethics training effective?",
     "options": {
       "A": "Keep the content simple and direct.",
@@ -1217,6 +1375,7 @@
     "answer": "D"
   },
   {
+    "id": 126,
     "question": "What is the primary advantage of radioactive data tracing over past techniques that modify input in order to determine whether or not that input was used in training?",
     "options": {
       "A": "Radioactive data tracing doesn't impact a model's performance.",
@@ -1227,6 +1386,7 @@
     "answer": "A"
   },
   {
+    "id": 127,
     "question": "Which of the following principle sets are important for the creation of open data that is widely utilized?",
     "options": {
       "A": "ISO 27017",
@@ -1237,6 +1397,7 @@
     "answer": "D"
   },
   {
+    "id": 128,
     "question": "Which of the following describes an illusory-correlation bias?",
     "options": {
       "A": "When you incorrectly assume a correlation because there is an illusory confounding variable.",
@@ -1247,6 +1408,7 @@
     "answer": "D"
   },
   {
+    "id": 129,
     "question": "An attacker fools an AI-based anti-spam system into thinking the attacker's email messages are benign. This enables the attacker's emails to reach their destination(s) without being blocked. What type of adversarial machine learning is this?",
     "options": {
       "A": "Evasion",
@@ -1257,6 +1419,7 @@
     "answer": "A"
   },
   {
+    "id": 130,
     "question": "Which of the following types of malware monitors a user's behavior without their knowledge or permission?",
     "options": {
       "A": "Virus",
@@ -1267,6 +1430,7 @@
     "answer": "B"
   },
   {
+    "id": 131,
     "question": "Which of the following metrics is used to evaluate a linear regression machine learning model?",
     "options": {
       "A": "Receiver operating characteristic (ROC)",
@@ -1277,6 +1441,7 @@
     "answer": "B"
   },
   {
+    "id": 132,
     "question": "Which of the following resources does the National Institute of Standards and Technology (NIST) provide to organizations?",
     "options": {
       "A": "Industrial configurations",
@@ -1287,6 +1452,7 @@
     "answer": "C"
   },
   {
+    "id": 133,
     "question": "In Al, the principle of privacy is most commonly referred to in the context of which of the following concepts?",
     "options": {
       "A": "Data protection",
@@ -1297,7 +1463,20 @@
     "answer": "A"
   },
   {
-    "question": "Which of the following constitute external stakeholders in the context of a code of ethics?A (internal - deisgners external - regulators) In the following scatter plot, the Grossincome variable is plotted against the Revenue variable. What type of correlation does this plot suggest?",
+    "id": 134,
+    "question": "Which of the following constitute external stakeholders in the context of a code of ethics?",
+    "options": {
+      "A": "Regulators",
+      "B": "Developers",
+      "C": "Designers",
+      "D": "Business managers"
+    },
+    "answer": "A",
+    "note": "(internal - deisgners\nexternal - regulators)"
+  },
+  {
+    "id": 135,
+    "question": "In the following scatter plot, the Grossincome variable is plotted against the Revenue variable. What type of correlation does this plot suggest?",
     "options": {
       "A": "There is a weak positive correlation between both variables",
       "B": "There is a strong positive correlation between both variables",
@@ -1307,6 +1486,7 @@
     "answer": "B"
   },
   {
+    "id": 136,
     "question": "Which of the following is a platform that includes hundreds of security exploit tools?",
     "options": {
       "A": "Wireshark",
@@ -1317,6 +1497,7 @@
     "answer": "D"
   },
   {
+    "id": 137,
     "question": "Which of the following situations would most likely require communication to external stakeholders? (Select two.)",
     "options": {
       "A": "The organization's change management strategy has been modified.",
@@ -1327,6 +1508,7 @@
     "answer": "CD"
   },
   {
+    "id": 138,
     "question": "Which team typically oversees penetration test operations and adherence to the rules of engagement (ROE)?",
     "options": {
       "A": "Blue team",
@@ -1337,6 +1519,7 @@
     "answer": "B"
   },
   {
+    "id": 139,
     "question": "Which of the following is an ethical benefit of incorporating fair competition considerations in a data-driven technology ecosystem?",
     "options": {
       "A": "Lowering product and service costs for the users",
@@ -1347,6 +1530,7 @@
     "answer": "C"
   },
   {
+    "id": 140,
     "question": "An ethical impact assessment is _____",
     "options": {
       "A": "Focused on preventing future problems.",
@@ -1356,6 +1540,7 @@
     "answer": "A"
   },
   {
+    "id": 141,
     "question": "Which of the following describe corporate hegemony? (Select two.)",
     "options": {
       "A": "Consolidating interests through mergers and acquisitions",
@@ -1366,6 +1551,7 @@
     "answer": "AB"
   },
   {
+    "id": 142,
     "question": "What does it mean to say that human rights are inalienable? (Select two.)",
     "options": {
       "A": "Inalienable rights are inherent in all human beings.",
@@ -1376,6 +1562,7 @@
     "answer": "AB"
   },
   {
+    "id": 143,
     "question": "What is theTuring test used for?",
     "options": {
       "A": "To test whether an Al system is availobility.",
@@ -1386,6 +1573,7 @@
     "answer": "D"
   },
   {
+    "id": 144,
     "question": "How do AI and other data-driven technologies use probability?",
     "options": {
       "A": "By determining the objective likelihood of some event happening",
@@ -1396,6 +1584,7 @@
     "answer": "B"
   },
   {
+    "id": 145,
     "question": "Which of the following are consequences of saying that someone or something has moral agency? (Select two.)",
     "options": {
       "A": "The moral agent is capable of determining right and wrong.",
@@ -1406,16 +1595,18 @@
     "answer": "AB"
   },
   {
-    "question": "What is ambient intelligence? environment.",
+    "id": 146,
+    "question": "What is ambient intelligence?",
     "options": {
       "A": "Linked IOT technology that conducts covert surveillance for the govermment on the people within its environment.",
       "B": "Linked IOT technology that always on and acting to personalize the experience for the people within its environment",
-      "C": "Linked IOT technology that collects and stores data about a home or office",
+      "C": "Linked IOT technology that collects and stores data about a home or office environment.",
       "D": "Linked IOT technology that collects and stores data about campus environment."
     },
     "answer": "B"
   },
   {
+    "id": 147,
     "question": "Which of the following describe important aspects in the role of an ethical AI engineer? (Select two.)",
     "options": {
       "A": "Building and maintaining computational hardware.",
@@ -1426,6 +1617,7 @@
     "answer": "CD"
   },
   {
+    "id": 148,
     "question": "Which of the following describe important aspects of why emerging technologies are so capable and powerful? (Select two.)",
     "options": {
       "A": "They can automate very complex operations.",
@@ -1436,6 +1628,7 @@
     "answer": "AB"
   },
   {
+    "id": 149,
     "question": "Which of the following are desired qualities when choosing a spokesperson for your organization? (Select two.)",
     "options": {
       "A": "Defensive when challenged with difficult situations",
@@ -1446,6 +1639,7 @@
     "answer": "BD"
   },
   {
+    "id": 150,
     "question": "In which of the following could STRIDE or VAST classifications be applied?",
     "options": {
       "A": "Network optimization tools",
@@ -1456,6 +1650,7 @@
     "answer": "D"
   },
   {
+    "id": 151,
     "question": "Management asks someone to do a data-related task. Which of the following would likely be ethically problematic? (Select two.)",
     "options": {
       "A": "Aggregate data together.",
@@ -1466,6 +1661,7 @@
     "answer": "CD"
   },
   {
+    "id": 152,
     "question": "Which of the following describes ethics washing?",
     "options": {
       "A": "No attempt is made towards genuine ethical action.",
@@ -1476,6 +1672,7 @@
     "answer": "D"
   },
   {
+    "id": 153,
     "question": "If you were faced with an AI system that identifies exactly what individuals will be infected in a pandemic of a novel disease before the first case occurs, what kind of Al is this?",
     "options": {
       "A": "Narrow Al",
@@ -1486,6 +1683,7 @@
     "answer": "D"
   },
   {
+    "id": 154,
     "question": "How can the human resources department help build an ethical organizational culture?",
     "options": {
       "A": "Hiring candidates based on their technical skills.",
@@ -1496,6 +1694,7 @@
     "answer": "C"
   },
   {
+    "id": 155,
     "question": "You plan on streamlining your company's product experience, but you also want to uphold the agency and autonomy of your users. Which of the following actions would uphold these principles? (Select two.)",
     "options": {
       "A": "Enabling government agencies to have a personalized interface with software",
@@ -1506,6 +1705,7 @@
     "answer": "BC"
   },
   {
+    "id": 156,
     "question": "You have collected social media posts with a specific hashtag for an analysis of the words used in the post. What kind of data is that?",
     "options": {
       "A": "Unstructured",
@@ -1516,6 +1716,7 @@
     "answer": "A"
   },
   {
+    "id": 157,
     "question": "Which of the following, by itself, qualifies as personally identifiable information (PII)?",
     "options": {
       "A": "Temperature readings for an office building",
@@ -1526,7 +1727,32 @@
     "answer": "D"
   },
   {
-    "question": "What percentage of frameworks include transparency? C (transparency: 85% core: 50%) What percentage of frameworks include privacy as core tenet? B (transparency: 85% core: 50%) Which of the following measures is best suited for reporting results to an audience?",
+    "id": 158,
+    "question": "What percentage of frameworks include transparency?",
+    "options": {
+      "A": "75%",
+      "B": "95%",
+      "C": "85%",
+      "D": "50%"
+    },
+    "answer": "C",
+    "note": "(transparency: 85%\ncore: 50%)"
+  },
+  {
+    "id": 159,
+    "question": "What percentage of frameworks include privacy as core tenet?",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "99%",
+      "D": "85%"
+    },
+    "answer": "B",
+    "note": "(transparency: 85%\ncore: 50%)"
+  },
+  {
+    "id": 160,
+    "question": "Which of the following measures is best suited for reporting results to an audience?",
     "options": {
       "A": "Mode",
       "B": "Variance",
@@ -1536,6 +1762,7 @@
     "answer": "C"
   },
   {
+    "id": 161,
     "question": "Which of the following are examples of how AI can limit human autonomy? (Select two.)",
     "options": {
       "A": "Weapon systems can limit human autonomy as humans may not have decision-making capability or understand the decision making.",
@@ -1546,6 +1773,7 @@
     "answer": "AB"
   },
   {
+    "id": 162,
     "question": "When it comes to protecting private data, which of the following could be the root cause of a problem?",
     "options": {
       "A": "The data was leaked online.",
@@ -1556,6 +1784,7 @@
     "answer": "B"
   },
   {
+    "id": 163,
     "question": "The endorsement of which of the following types of stakeholder is most critical when developing mission and vision statements?",
     "options": {
       "A": "Customers",
@@ -1566,6 +1795,7 @@
     "answer": "C"
   },
   {
+    "id": 164,
     "question": "Which of the following are objectives of a forensic analysis?",
     "options": {
       "A": "To inform stakeholders that an incident has occurred.",
@@ -1576,6 +1806,7 @@
     "answer": "BC"
   },
   {
+    "id": 165,
     "question": "If your company need to do the same analysis as new data comes in every month, what is the best term to describe that process?",
     "options": {
       "A": "Workflow",
@@ -1586,6 +1817,7 @@
     "answer": "D"
   },
   {
+    "id": 166,
     "question": "What does the acronym SIEM stand for in a cybersecurity context?",
     "options": {
       "A": "Social, interpersonal, empathic, mental",
@@ -1596,6 +1828,7 @@
     "answer": "D"
   },
   {
+    "id": 167,
     "question": "How to you create an ethical organizational culture?",
     "options": {
       "A": "Button-up communication about company values.",
@@ -1606,6 +1839,7 @@
     "answer": "D"
   },
   {
+    "id": 168,
     "question": "Which of the following are likely benefits of having defined organizational policies? (Select two.)",
     "options": {
       "A": "It supports consistency of behavior and unification of culture.",
@@ -1616,6 +1850,7 @@
     "answer": "AB"
   },
   {
+    "id": 169,
     "question": "Which of the following is a reason to periodically update a code of ethics document?",
     "options": {
       "A": "It is a fiduciary and regulatory responsibility for the organization to do so.",
@@ -1626,6 +1861,7 @@
     "answer": "C"
   },
   {
+    "id": 170,
     "question": "Your Vice President of Sales decides to add more sales representatives for the summer based on analyses of sales trends over the last five years. What level of information is she acting on?",
     "options": {
       "A": "Wisdom",
@@ -1636,6 +1872,7 @@
     "answer": "A"
   },
   {
+    "id": 171,
     "question": "Why is corporate governance important when thinking about ethical considerations for the development of data-driven technologies?",
     "options": {
       "A": "It helps the organization showcase to its customers that it has ethical guidelines.",
@@ -1646,6 +1883,7 @@
     "answer": "C"
   },
   {
+    "id": 172,
     "question": "When your collected data doesn't accurately reflect the full environment, you're experiencing",
     "options": {
       "A": "prejudice bias",
@@ -1656,6 +1894,7 @@
     "answer": "D"
   },
   {
+    "id": 173,
     "question": "Which type of entity are the OECD Principles on Artificial Intelligence mostly geared towards?",
     "options": {
       "A": "Municipal governments",
@@ -1666,6 +1905,7 @@
     "answer": "C"
   },
   {
+    "id": 174,
     "question": "Which of the following is a reason to engage external stakeholders during the development of internal and external ethics policies ?",
     "options": {
       "A": "It can be used as an opportunity to demonstrate your ethical standpoints with both internal and external stakeholders.",
@@ -1676,6 +1916,7 @@
     "answer": "B"
   },
   {
+    "id": 175,
     "question": "What is one of the recommendations for governments?",
     "options": {
       "A": "Promote human values.",
@@ -1686,6 +1927,7 @@
     "answer": "C"
   },
   {
+    "id": 176,
     "question": "Why are environmental concerns important to consider in the ethical development of data-driven technologies?",
     "options": {
       "A": "Data-driven technologies directly impact the environment through the invasive mining of resources to create the technologies.",
@@ -1696,6 +1938,7 @@
     "answer": "B"
   },
   {
+    "id": 177,
     "question": "Why is it important to maintain public trust?",
     "options": {
       "A": "Trust, once lost, is difficult to regain.",
@@ -1706,6 +1949,7 @@
     "answer": "A"
   },
   {
+    "id": 178,
     "question": "Which of the following is a good example of a feedback loop in machine learning?",
     "options": {
       "A": "A shopping app surfaces new items to buy, which is based on dataset from customers fitting a similar profile. When you buy, you go into that dataset",
@@ -1716,6 +1960,7 @@
     "answer": "C"
   },
   {
+    "id": 179,
     "question": "K-anonymity in a dataset is achieved when each individual cannot be",
     "options": {
       "A": "distinguished from at least K individuals who are also in the dataset",
@@ -1726,6 +1971,7 @@
     "answer": "A"
   },
   {
+    "id": 180,
     "question": "What shared principle from ethical frameworks in intellectual property often at odds with?",
     "options": {
       "A": "privacy",
@@ -1736,6 +1982,7 @@
     "answer": "D"
   },
   {
+    "id": 181,
     "question": "What is the function of a red team in a penetration testing exercise?",
     "options": {
       "A": "To conduct the simulated attacks.",
@@ -1746,6 +1993,7 @@
     "answer": "A"
   },
   {
+    "id": 182,
     "question": "Which of the following is an adequate definition of a stakeholder?",
     "options": {
       "A": "All internal employees.",
@@ -1756,7 +2004,8 @@
     "answer": "C"
   },
   {
-    "question": "A hospital dataset protects whether an individual has had either a stroke, heart attack, or staph infection. The individual may still be harmed via dataset(073-356-8678)",
+    "id": 183,
+    "question": "A hospital dataset protects whether an individual has had either a stroke, heart attack, or staph infection. The individual may still be harmed via dataset",
     "options": {
       "A": "group inclusion",
       "B": "privacy columns",
@@ -1766,6 +2015,7 @@
     "answer": "A"
   },
   {
+    "id": 184,
     "question": "In presenting an audit report, a researcher would",
     "options": {
       "A": "prevent the model from launching",
@@ -1776,6 +2026,7 @@
     "answer": "B"
   },
   {
+    "id": 185,
     "question": "How can a visual contract be easier to understand than a written contract?",
     "options": {
       "A": "The use of pictures is more accessible to all people, whereas a written contract may be difficult for someone with a reading disability to understand.",
@@ -1786,6 +2037,7 @@
     "answer": "C"
   },
   {
+    "id": 186,
     "question": "Which of the following are important to provide to a crisis communication team? (Select two.)",
     "options": {
       "A": "Permission to tell the public what they want to hear",
@@ -1796,6 +2048,7 @@
     "answer": "BC"
   },
   {
+    "id": 187,
     "question": "Which of the following best describes what an algorithm is?",
     "options": {
       "A": "a recipe that a computer uses to solve problems",
@@ -1806,6 +2059,7 @@
     "answer": "A"
   },
   {
+    "id": 188,
     "question": "The Data minimization principle requires that you limit data collection to only what is",
     "options": {
       "A": "necessary for differential privacy",
@@ -1816,6 +2070,7 @@
     "answer": "D"
   },
   {
+    "id": 189,
     "question": "How do anonymized datasets fall short of their goal of being anonymous?",
     "options": {
       "A": "Anonymized datasets can be re-identifyed by anyone holding the hash key",
@@ -1826,6 +2081,7 @@
     "answer": "D"
   },
   {
+    "id": 190,
     "question": "Which of the following is a reason to engage in a comprehensive information gathering phase before drafting your internal and external ethics policies?",
     "options": {
       "A": "It helps to collect reaffirming evidence for your own ethical beliefs.",
@@ -1836,6 +2092,7 @@
     "answer": "C"
   },
   {
+    "id": 191,
     "question": "Which of the following are useful strategies for communicating ethical risks to the organization? (Select two.)",
     "options": {
       "A": "Provide information only when solicited",
@@ -1846,6 +2103,7 @@
     "answer": "BD"
   },
   {
+    "id": 192,
     "question": "The Strava dataset example illustrates that while differential privacy can protect individuals, it can still harm_____",
     "options": {
       "A": "Researchers",
@@ -1856,6 +2114,7 @@
     "answer": "D"
   },
   {
+    "id": 193,
     "question": "Why is it important to consider Goodhart's law?",
     "options": {
       "A": "A model might optimize one metric at the expense of others.",
@@ -1866,6 +2125,7 @@
     "answer": "A"
   },
   {
+    "id": 194,
     "question": "Which of the following describes the purpose of a STEEPV analysis?",
     "options": {
       "A": "To perform a strategic analysis of user needs and behaviors.",
@@ -1876,6 +2136,7 @@
     "answer": "D"
   },
   {
+    "id": 195,
     "question": "In 2019,_____% of equity-futures and cash-equity trades were executed by algorithms",
     "options": {
       "A": "1-5%",
@@ -1886,6 +2147,7 @@
     "answer": "B"
   },
   {
+    "id": 196,
     "question": "Once a dataset has been cleaned, which accuracy guideline ensures your model is looking at the problem correctly?",
     "options": {
       "A": "Objective summarization",
@@ -1896,6 +2158,7 @@
     "answer": "B"
   },
   {
+    "id": 197,
     "question": "What's the difference between a basic and learning algorithm?",
     "options": {
       "A": "A basic algorithm takes an input, while a learning algorithm takes an input and gets an output",
@@ -1906,6 +2169,7 @@
     "answer": "D"
   },
   {
+    "id": 198,
     "question": "How is culture building workshop different from ethics training?",
     "options": {
       "A": "Culture-building workshops teaches people how to integrate company values into daily practice, while ethics training teaches the company values.",
@@ -1914,6 +2178,7 @@
     "answer": "A"
   },
   {
+    "id": 199,
     "question": "If we know one group's worthiness score has been artificially inflated, one solution for fairness is to",
     "options": {
       "A": "creating separate decision thresholds for each group",
@@ -1924,6 +2189,7 @@
     "answer": "A"
   },
   {
+    "id": 200,
     "question": "Which of the following Python tools is designed to integrate with Google's Cloud AI platform?",
     "options": {
       "A": "LIME",
@@ -1934,6 +2200,7 @@
     "answer": "B"
   },
   {
+    "id": 201,
     "question": "Why is it important to engage stakeholders at the beginning of the ethical risk management process?",
     "options": {
       "A": "It proves that you are completely equipped to address any ethical risks in your data-driven systems.",
@@ -1944,6 +2211,7 @@
     "answer": "B"
   },
   {
+    "id": 202,
     "question": "Which of the following are useful strategies for communicating ethical risks to the individual? (Select two.)",
     "options": {
       "A": "Ensure individuals feel that they have input into the process",
@@ -1954,6 +2222,7 @@
     "answer": "AC"
   },
   {
+    "id": 203,
     "question": "Which of the following are useful strategies for communicating ethical risks to society? (Select two.)",
     "options": {
       "A": "Ensure communication policies are diverse, inclusive, and equitable",
@@ -1964,6 +2233,7 @@
     "answer": "AD"
   },
   {
+    "id": 204,
     "question": "Plausible deniability refers to the ability of the individual to _",
     "options": {
       "A": "doubt the results of a study",
@@ -1974,6 +2244,7 @@
     "answer": "B"
   },
   {
+    "id": 205,
     "question": "Which of the following are challenges that can arise if you fail to communicate about the social impact of ethical risks (select two.)",
     "options": {
       "A": "Decreased corporate revenue",
@@ -1984,6 +2255,7 @@
     "answer": "CD"
   },
   {
+    "id": 206,
     "question": "A ___ model can still be unfair even though it won't explicitly know which groups are being inputted into the system",
     "options": {
       "A": "blind attribute",
@@ -1994,6 +2266,7 @@
     "answer": "A"
   },
   {
+    "id": 207,
     "question": "The nature of a predictive model may reveal____",
     "options": {
       "A": "the ethics of the individual inputs",
@@ -2004,6 +2277,7 @@
     "answer": "C"
   },
   {
+    "id": 208,
     "question": "The tendency to only seek attributes in existing collected data is known as",
     "options": {
       "A": "exclusion bias",
@@ -2014,6 +2288,7 @@
     "answer": "C"
   },
   {
+    "id": 209,
     "question": "What is a culture of appreciation?",
     "options": {
       "A": "An incentive structure that encourages all top directors to identify people who deserve a reward for behaving ethically",
@@ -2024,6 +2299,7 @@
     "answer": "D"
   },
   {
+    "id": 210,
     "question": "Which of the following ethical considerations should have priority in an emergency situation like the use of contact-tracing solutions during a pandemic? (Select two.)",
     "options": {
       "A": "Privacy",
@@ -2034,6 +2310,7 @@
     "answer": "AD"
   },
   {
+    "id": 211,
     "question": "Which of the following is a notable aspect of the Personal Information Protection and Electronic Documents Act (PIPEDA) when compared to similar laws and regulations?",
     "options": {
       "A": "Its exclusive focus on a single domain rather than a breadth of domains",
@@ -2044,6 +2321,7 @@
     "answer": "C"
   },
   {
+    "id": 212,
     "question": "Which of the following is one explanation for why cognitive biases exist?",
     "options": {
       "A": "We use them to help remember things.",
@@ -2054,6 +2332,7 @@
     "answer": "B"
   },
   {
+    "id": 213,
     "question": "What is the benefit of hosting a virtual reality press conference over a traditional in-person press conference?",
     "options": {
       "A": "The conference can be interactive without the participants needing to be co-located.",
@@ -2064,6 +2343,7 @@
     "answer": "A"
   },
   {
+    "id": 214,
     "question": "How could a board of ethics be an example of ethic washing?",
     "options": {
       "A": "If it has no power to institute change.",
@@ -2074,6 +2354,7 @@
     "answer": "A"
   },
   {
+    "id": 215,
     "question": "Which of the following describe a process of cross-correlation of data? (Select two.)",
     "options": {
       "A": "Discovering new information via inference",
@@ -2084,6 +2365,7 @@
     "answer": "AD"
   },
   {
+    "id": 216,
     "question": "The optimistic view of general AI could be accurately summarized as AI as a ____",
     "options": {
       "A": "peace-keeping tool",
@@ -2094,6 +2376,7 @@
     "answer": "C"
   },
   {
+    "id": 217,
     "question": "For a model to make decisions that involve human life, the model needs",
     "options": {
       "A": "programmed reflexive decision making ability",
@@ -2104,6 +2387,7 @@
     "answer": "D"
   },
   {
+    "id": 218,
     "question": "A major downside to k-anonymity is that re-identification is possible with",
     "options": {
       "A": "sensitive columns",
@@ -2114,6 +2398,7 @@
     "answer": "B"
   },
   {
+    "id": 219,
     "question": "Which expression best characterizes what a company or organizational culture is?",
     "options": {
       "A": "\"It is what it is.\"",
@@ -2124,6 +2409,18 @@
     "answer": "B"
   },
   {
+    "id": 220,
+    "question": "Which of the following describes the goal of integrity when it comes to cybersecurity?",
+    "options": {
+      "A": "Ensuring that data hasn't been modified without authorization.",
+      "B": "Ensuring that data is not changed",
+      "C": "Ensuring that data is accessible to those who need it.",
+      "D": "Ensuring that data is kept private."
+    },
+    "answer": "A"
+  },
+  {
+    "id": 221,
     "question": "In machine learning, what do we plot on the X,Y axis to determine a pareto curve?",
     "options": {
       "A": "Rejection rate, false-positive rate",
@@ -2134,6 +2431,7 @@
     "answer": "D"
   },
   {
+    "id": 222,
     "question": "Why is it important to include stakeholders from diverse areas of business when identifying risk?",
     "options": {
       "A": "It includes more perspectives, which can lead to better risk identification.",
@@ -2144,6 +2442,7 @@
     "answer": "A"
   },
   {
+    "id": 223,
     "question": "\"Companies have an obligation to their shareholders\" is part of a view that sees artificial intelligence as",
     "options": {
       "A": "a gimmick for enterprises, unless general intelligence is achieved",
@@ -2154,6 +2453,7 @@
     "answer": "D"
   },
   {
+    "id": 224,
     "question": "Which of the following is often in opposition to moral relativism?",
     "options": {
       "A": "Customs and conventions",
@@ -2164,6 +2464,7 @@
     "answer": "B"
   },
   {
+    "id": 225,
     "question": "Which of the following are important ethical elements to safeguard within ethical AI systems? (Select two.)",
     "options": {
       "A": "The number of layers, tensors, or parameters used in a model.",
@@ -2174,6 +2475,7 @@
     "answer": "CD"
   },
   {
+    "id": 226,
     "question": "What side effect of learning algorithms creates an ethical dilemma for its users?",
     "options": {
       "A": "Learning algorithms require government regulation, which is bad for software developers",
@@ -2184,6 +2486,7 @@
     "answer": "B"
   },
   {
+    "id": 227,
     "question": "Group outcomes being improved through explainable recommendation systems is an example of using _______ to modify outcomes",
     "options": {
       "A": "competition",
@@ -2194,6 +2497,7 @@
     "answer": "D"
   },
   {
+    "id": 228,
     "question": "A state where resources cannot be reallocated to make one individual better off without making at least one individual worse off is known as a",
     "options": {
       "A": "boron letter",
@@ -2204,6 +2508,7 @@
     "answer": "D"
   },
   {
+    "id": 229,
     "question": "Our goals for building an ethical predictive model include making sure the results are",
     "options": {
       "A": "accurate, fair and explainable",
@@ -2214,6 +2519,7 @@
     "answer": "A"
   },
   {
+    "id": 230,
     "question": "When building a predictive model, what is the goal of the deployment phase?",
     "options": {
       "A": "To use the model in real-life predictions, monitoring the error rate and accuracy",
@@ -2224,6 +2530,7 @@
     "answer": "A"
   },
   {
+    "id": 231,
     "question": "A training set based on feeding 60% of data, validating on 20% of data, and then designing multiple tests for the remaining 20% of data is referred to as an",
     "options": {
       "A": "false positive set",
@@ -2234,6 +2541,7 @@
     "answer": "D"
   },
   {
+    "id": 232,
     "question": "An algorithm that takes an input, tries 10 different sorting techniques, and uses the best fit on the next 100 inputs is best described as a",
     "options": {
       "A": "explicit algorithm",
@@ -2244,6 +2552,7 @@
     "answer": "B"
   },
   {
+    "id": 233,
     "question": "What is one possible reason a model may predict a higher crime rate based on datasets used?",
     "options": {
       "A": "The model's training curve was not provided enough data",
@@ -2254,6 +2563,7 @@
     "answer": "B"
   },
   {
+    "id": 234,
     "question": "One way to counter a potential adversarial algorithm is by",
     "options": {
       "A": "banning model updates",
@@ -2264,6 +2574,7 @@
     "answer": "C"
   },
   {
+    "id": 235,
     "question": "A benefit of glass-box models is that if an attribute is skewing the fairness of a decision, a human agent may choose to",
     "options": {
       "A": "alert the team",
@@ -2274,6 +2585,7 @@
     "answer": "D"
   },
   {
+    "id": 236,
     "question": "Which of the following are important factors to consider when developing a media campaign? (Select two.)",
     "options": {
       "A": "The effect the campaign has on the organization's bottom line",
@@ -2284,6 +2596,7 @@
     "answer": "BD"
   },
   {
+    "id": 237,
     "question": "GDPR states that \"Personal data shall be adequate, relevant and __________ in relation to the purpose or purposes for which they are processed.\"",
     "options": {
       "A": "broadly applicable",
@@ -2294,6 +2607,7 @@
     "answer": "C"
   },
   {
+    "id": 238,
     "question": "Which type of kurtosis is most likely to indicate the strong presence of outliers?",
     "options": {
       "A": "Mesokurtic",
@@ -2304,6 +2618,7 @@
     "answer": "C"
   },
   {
+    "id": 239,
     "question": "Which of the following is a recommended security practice for machine learning datasets?",
     "options": {
       "A": "Enact a sound data governance structure",
@@ -2314,6 +2629,7 @@
     "answer": "A"
   },
   {
+    "id": 240,
     "question": "What is the black box problem?",
     "options": {
       "A": "When a model is deployed, but researchers are unable to figure out why it's making decisions",
@@ -2324,6 +2640,7 @@
     "answer": "A"
   },
   {
+    "id": 241,
     "question": "When used in recommendation engines, explainable algorithms can help answer the question of ____",
     "options": {
       "A": "who?",
@@ -2334,6 +2651,7 @@
     "answer": "C"
   },
   {
+    "id": 242,
     "question": "Ethical models are _________",
     "options": {
       "A": "precise, explainable, and fair",
@@ -2344,6 +2662,7 @@
     "answer": "C"
   },
   {
+    "id": 243,
     "question": "What is a likely outcome for a weather app using a learning algorithm to figure out where to put their future weather stations?",
     "options": {
       "A": "Storing data in an AWS instance with all weather stations in the country",
@@ -2354,6 +2673,7 @@
     "answer": "C"
   },
   {
+    "id": 244,
     "question": "In a classification model that determines whether or not a customer qualifies for a coupon, a significantly lower percentage of males qualified than females. Which of the following types of discrimination does this outcome potentially represent?",
     "options": {
       "A": "Disparate impact",
@@ -2364,6 +2684,7 @@
     "answer": "A"
   },
   {
+    "id": 245,
     "question": "A model that makes more mistakes by moving its decision threshold down 40% of its worthiness metric will be potentially",
     "options": {
       "A": "fairer but less accurate",
@@ -2374,16 +2695,18 @@
     "answer": "A"
   },
   {
-    "question": "Which of these steps follows the most logical order for a low-to-high sorting algorithm?2. Set to 0 in the index in the output array 3. Remove that number from the input array 2. Set to 0 in the index in the output array 3. Remove that number from the input array 4. Repeat steps 1-3, but add 1 to the index number for each loop 2. Set the length of the array in the index in the output array 3. Remove that number from the input 4. Repeat steps 1-3, but add 1 to the index number for each loop 2. Set to 0 in the index in the output array 3. Remove that number from the input array 4. Repeat steps 1-3, but add 1 to the index number for each loop",
+    "id": 246,
+    "question": "Which of these steps follows the most logical order for a low-to-high sorting algorithm?",
     "options": {
-      "A": "1. Scan to find the smallest number",
-      "B": "1. Scan to find the largest number",
-      "C": "1. Scan to find the smallest number",
-      "D": "1. Scan to find the smallest number"
+      "A": "1. Scan to find the smallest number 2. Set to 0 in the index in the output array 3. Remove that number from the input array",
+      "B": "1. Scan to find the largest number 2. Set to 0 in the index in the output array 3. Remove that number from the input array 4. Repeat steps 1-3, but add 1 to the index number for each loop",
+      "C": "1. Scan to find the smallest number 2. Set the length of the array in the index in the output array 3. Remove that number from the input 4. Repeat steps 1-3, but add 1 to the index number for each loop",
+      "D": "1. Scan to find the smallest number 2. Set to 0 in the index in the output array 3. Remove that number from the input array 4. Repeat steps 1-3, but add 1 to the index number for each loop"
     },
     "answer": "D"
   },
   {
+    "id": 247,
     "question": "What is the purpose of what-if scenario planning sessions?",
     "options": {
       "A": "The purpose of what-if scenario planning sessions is to think critically about potential best-case scenaros so you can decide whether or not to proceed with a project.",
@@ -2394,6 +2717,7 @@
     "answer": "B"
   },
   {
+    "id": 248,
     "question": "To uphold transparency and explainability, communication about data-driven technologies should be....",
     "options": {
       "A": "Clear, concise, and coherent.",
@@ -2404,6 +2728,7 @@
     "answer": "A"
   },
   {
+    "id": 249,
     "question": "In reverse-engineering a double coin flip differential model, what would be the amount of truthful \"yes/no\" responses in our dataset?",
     "options": {
       "A": "25%",
@@ -2414,6 +2739,7 @@
     "answer": "D"
   },
   {
+    "id": 250,
     "question": "Which of the following is a negative consequence of a predictive model used in real life?",
     "options": {
       "A": "A model used by a bank wrongly predicts a person will not be able to pay off a loan",
@@ -2424,6 +2750,7 @@
     "answer": "D"
   },
   {
+    "id": 251,
     "question": "At which level of differential privacy is the outcome secured from even the people collecting answers?",
     "options": {
       "A": "premium",
@@ -2434,6 +2761,7 @@
     "answer": "D"
   },
   {
+    "id": 252,
     "question": "A \"purposefully biased\" algorithm used to identify unfair attributes is known as",
     "options": {
       "A": "a discriminatory algorithm",
@@ -2444,6 +2772,7 @@
     "answer": "B"
   },
   {
+    "id": 253,
     "question": "What does the acronym RACI stand for?",
     "options": {
       "A": "Relatable, Agreeable, Commendable, Irascible",
@@ -2454,6 +2783,7 @@
     "answer": "D"
   },
   {
+    "id": 254,
     "question": "How are predictive models used in hedge funds?",
     "options": {
       "A": "they provide predictions to shareholders to estimate returns",
@@ -2464,6 +2794,7 @@
     "answer": "D"
   },
   {
+    "id": 255,
     "question": "A ________ is when a model is validated by it's own influence on predictions",
     "options": {
       "A": "training set error",
@@ -2474,6 +2805,7 @@
     "answer": "B"
   },
   {
+    "id": 256,
     "question": "Fairness in machine learning can protect groups from bias, but can still harm",
     "options": {
       "A": "training datasets",
@@ -2484,6 +2816,7 @@
     "answer": "B"
   },
   {
+    "id": 257,
     "question": "Which of the following are prerequisites for high-level digital security and trust mechanisms? (Select two.)",
     "options": {
       "A": "Authorization",
@@ -2494,6 +2827,7 @@
     "answer": "AC"
   },
   {
+    "id": 258,
     "question": "Which of the following best describes beneficence?",
     "options": {
       "A": "Beneficence is a term coined by IBM that relates to their Green Horizons initiative in 2014.",
@@ -2504,6 +2838,7 @@
     "answer": "D"
   },
   {
+    "id": 259,
     "question": "A predictive model's false negative result can be defined as",
     "options": {
       "A": "the predicted result was positive, and the actual result was negative",
@@ -2514,6 +2849,7 @@
     "answer": "B"
   },
   {
+    "id": 260,
     "question": "Which of the following should be conducted as part of a risk communication strategy in order to ensure the organization is upholding its regulatory obligations?",
     "options": {
       "A": "Business impact assessment (BIA)",
@@ -2524,6 +2860,7 @@
     "answer": "D"
   },
   {
+    "id": 261,
     "question": "What can be learned from a predictive model should not change if the _________ is either included or excluded in the training set",
     "options": {
       "A": "individual's data",
@@ -2534,6 +2871,7 @@
     "answer": "A"
   },
   {
+    "id": 262,
     "question": "An example of a public dataset at risk of an algorithmic privacy violation is the",
     "options": {
       "A": "Fidelity Bank lending dataset",
@@ -2544,6 +2882,7 @@
     "answer": "C"
   },
   {
+    "id": 263,
     "question": "In fixing the Word2Vec model, we have an advantage over a traditional black box model in that",
     "options": {
       "A": "we have access to the training data",
@@ -2554,6 +2893,7 @@
     "answer": "A"
   },
   {
+    "id": 264,
     "question": "Which of the following software development principles is essential in the real-world deployment of AI-enabled software applications in critical scenarios like self-driving cars?",
     "options": {
       "A": "Robustness to adversarial examples",
@@ -2564,6 +2904,7 @@
     "answer": "A"
   },
   {
+    "id": 265,
     "question": "What kind of shape does a normal distribution take on when plotted in histogram?",
     "options": {
       "A": "Tail shape",
@@ -2574,6 +2915,7 @@
     "answer": "C"
   },
   {
+    "id": 266,
     "question": "During cross-validation, which of the following dataset splits is used to tune the performance of a model?",
     "options": {
       "A": "Training set",
@@ -2584,6 +2926,7 @@
     "answer": "C"
   },
   {
+    "id": 267,
     "question": "Why is it important to take a proactive approach to addressing liability issues?",
     "options": {
       "A": "The law often lags behind innovation.",
@@ -2594,6 +2937,7 @@
     "answer": "A"
   },
   {
+    "id": 268,
     "question": "Which of the following are important steps to document during an auditing process? (Select two.)",
     "options": {
       "A": "Provide significant advance notice before an audit.",
@@ -2604,6 +2948,7 @@
     "answer": "CD"
   },
   {
+    "id": 269,
     "question": "Which of the following is a misuse of intellectual property (IP) when it comes to ethical accountability for an organization?",
     "options": {
       "A": "Filing a patent for the IP that makes non-obvious information known to the public.",
@@ -2614,6 +2959,7 @@
     "answer": "C"
   },
   {
+    "id": 270,
     "question": "Which of the following can help mitigate unwillingness to accept feedback?",
     "options": {
       "A": "Engage in cultural awareness and cultural sensitivity.",
@@ -2624,6 +2970,7 @@
     "answer": "C"
   },
   {
+    "id": 271,
     "question": "In a complex learning function, we will understand the ____, but not the ____",
     "options": {
       "A": "inputs/outputs, algorithm",
@@ -2634,6 +2981,7 @@
     "answer": "A"
   },
   {
+    "id": 272,
     "question": "A fact of learning algorithms is that",
     "options": {
       "A": "even if you haven't shared an direct datapoint about yourself, with enough related datapoints the algorithm can make an educated guess with alarming accuracy",
@@ -2644,6 +2992,7 @@
     "answer": "A"
   },
   {
+    "id": 273,
     "question": "The Netflix prize privacy scandal is an example of reidentification through",
     "options": {
       "A": "k-anonymity",
@@ -2654,7 +3003,32 @@
     "answer": "D"
   },
   {
-    "question": "A type of artificial intelligence that outperforms humans in some defined task is known as D (some defined -> Narrow AI all tasks -> General AI) A type of artificial intelligence that outperforms humans in all tasks is known asD (some defined -> Narrow AI all tasks -> General AI) Why is it impractical to protect all possible subgroups in predictive models?",
+    "id": 274,
+    "question": "A type of artificial intelligence that outperforms humans in some defined task is known as",
+    "options": {
+      "A": "General AI",
+      "B": "AEI",
+      "C": "Special AI",
+      "D": "Narrow AI"
+    },
+    "answer": "D",
+    "note": "(some defined -> Narrow AI\nall tasks -> General AI)"
+  },
+  {
+    "id": 275,
+    "question": "A type of artificial intelligence that outperforms humans in all tasks is known as",
+    "options": {
+      "A": "Specific AI",
+      "B": "Outwit AI",
+      "C": "Encompassing AI",
+      "D": "General AI"
+    },
+    "answer": "D",
+    "note": "(some defined -> Narrow AI\nall tasks -> General AI)"
+  },
+  {
+    "id": 276,
+    "question": "Why is it impractical to protect all possible subgroups in predictive models?",
     "options": {
       "A": "Fairness scores won't be high enough to be reasonable",
       "B": "Accuracy will be lowered beyond a reasonable rate",
@@ -2664,6 +3038,7 @@
     "answer": "B"
   },
   {
+    "id": 277,
     "question": "Delete unused data __________ is a method of data minimization",
     "options": {
       "A": "early and often",
@@ -2674,6 +3049,7 @@
     "answer": "A"
   },
   {
+    "id": 278,
     "question": "Which of the following risk categories deals with stakeholder responsibility in creating and using data-driven technologies?",
     "options": {
       "A": "Explainability",
@@ -2684,6 +3060,7 @@
     "answer": "B"
   },
   {
+    "id": 279,
     "question": "Why is fair competition an important ethical consideration for data-driven technology businesses?",
     "options": {
       "A": "Fair competition prevents predatory pricing",
@@ -2694,6 +3071,7 @@
     "answer": "B"
   },
   {
+    "id": 280,
     "question": "Model inputs of address with \"City + State\" as separate inputs from a dataset would violate which accuracy guideline?",
     "options": {
       "A": "No correlating data",
@@ -2704,6 +3082,7 @@
     "answer": "A"
   },
   {
+    "id": 281,
     "question": "A good example of cultural reflection in training data is",
     "options": {
       "A": "an image recognition model selects one face over another based on sample data",
@@ -2714,6 +3093,7 @@
     "answer": "B"
   },
   {
+    "id": 282,
     "question": "Which of the following are requirements set forth by the Biometric Information Privacy Act (BIPA)? (Select two.)",
     "options": {
       "A": "Organizations must obtain consent from individuals regarding the collection and use of biometric data.",
@@ -2724,6 +3104,7 @@
     "answer": "AC"
   },
   {
+    "id": 283,
     "question": "To measure a predictive model's accuracy, you",
     "options": {
       "A": "multiply the number of total predictions by the percentage of correct predictions",
@@ -2734,6 +3115,7 @@
     "answer": "B"
   },
   {
+    "id": 284,
     "question": "Pseudocode can best be defined as",
     "options": {
       "A": "an explainable description of code that is meant for humans, not computers",
@@ -2744,6 +3126,7 @@
     "answer": "A"
   },
   {
+    "id": 285,
     "question": "An unfair model will by nature",
     "options": {
       "A": "try to balance groups automatically",
@@ -2754,6 +3137,7 @@
     "answer": "C"
   },
   {
+    "id": 286,
     "question": "What is the purpose of change management in terms of creating an ethical organizational culture?",
     "options": {
       "A": "To create a fast transition through training.",
@@ -2764,6 +3148,7 @@
     "answer": "C"
   },
   {
+    "id": 287,
     "question": "Which of the following types of bias emerges when the same data is sampled over and over again, limiting a model's perspective?",
     "options": {
       "A": "Temporal bias",
@@ -2774,6 +3159,7 @@
     "answer": "D"
   },
   {
+    "id": 288,
     "question": "SSL, TLS, and SSH are all forms of...",
     "options": {
       "A": "Media codecs",
@@ -2784,6 +3170,7 @@
     "answer": "C"
   },
   {
+    "id": 289,
     "question": "How can AI uphold justice?",
     "options": {
       "A": "The more AI-based products being used in the justice system, the more justice can be upheld.",
@@ -2794,6 +3181,7 @@
     "answer": "B"
   },
   {
+    "id": 290,
     "question": "Game theory states that outcomes that are best for _____ can be obscured by outcomes best for ______",
     "options": {
       "A": "the model, the individual",
@@ -2804,6 +3192,7 @@
     "answer": "D"
   },
   {
+    "id": 291,
     "question": "A _____ model is preferred by businesses because they see less competition as a benefit",
     "options": {
       "A": "black box",
@@ -2814,7 +3203,8 @@
     "answer": "A"
   },
   {
-    "question": "Which of the following describes the purpose of a business impact assessment (BIA)?(073-356-8678)",
+    "id": 292,
+    "question": "Which of the following describes the purpose of a business impact assessment (BIA)?",
     "options": {
       "A": "It helps you predict business interruptions and develop recovery strategies.",
       "B": "It helps you identify what risks you can accept or transfer to third party.",
@@ -2824,6 +3214,7 @@
     "answer": "A"
   },
   {
+    "id": 293,
     "question": "Dating algorithms become biased mostly through offering users _________",
     "options": {
       "A": "access to separate data models",
@@ -2834,6 +3225,7 @@
     "answer": "C"
   },
   {
+    "id": 294,
     "question": "What's the difference between a basic and complex learning algorithm?",
     "options": {
       "A": "A basic algorithm can handle simple inputs like numbers, while a complex algorithm can handle complex inputs like pictures",
@@ -2844,6 +3236,7 @@
     "answer": "C"
   },
   {
+    "id": 295,
     "question": "A dataset attribute that is not identifiable but constitutes data about the individual that needs to be protected is known as a",
     "options": {
       "A": "quasi-identifier",
@@ -2854,6 +3247,7 @@
     "answer": "C"
   },
   {
+    "id": 296,
     "question": "What is the primary purpose of obtaining feedback about an ethical crisis?",
     "options": {
       "A": "To demonstrate compliance",
@@ -2864,6 +3258,7 @@
     "answer": "B"
   },
   {
+    "id": 297,
     "question": "What is the Turing test used for?",
     "options": {
       "A": "To test whether an AI system is capable of tricking a person into thinking it's ar",
@@ -2874,6 +3269,7 @@
     "answer": "B"
   },
   {
+    "id": 298,
     "question": "An adversarial model relies on using __________ to observe different outputs",
     "options": {
       "A": "pressure inputs",
@@ -2884,6 +3280,7 @@
     "answer": "D"
   },
   {
+    "id": 299,
     "question": "One way to avoid feedback loops in machine learning is to",
     "options": {
       "A": "investigate exclusion bias",
@@ -2894,6 +3291,7 @@
     "answer": "D"
   },
   {
+    "id": 300,
     "question": "An example of automation bias is",
     "options": {
       "A": "using scraped twitter data over survey data",
@@ -2904,6 +3302,7 @@
     "answer": "A"
   },
   {
+    "id": 301,
     "question": "The explainable AI movement states that cooperation between agents, in this case, algorithms and humans, depends on which of the following?",
     "options": {
       "A": "human rights",
@@ -2914,6 +3313,7 @@
     "answer": "B"
   },
   {
+    "id": 302,
     "question": "Which of the following communication tactics help uphold transparency and explainability from the customer perspective? (Select two.)",
     "options": {
       "A": "Providing guidelines for how customers can keep their private data secure when using data-driven systems.",
@@ -2924,6 +3324,7 @@
     "answer": "BD"
   },
   {
+    "id": 303,
     "question": "A predictive model's true positive result can be defined as",
     "options": {
       "A": "the predicted result was positive, and the actual result was negative",
@@ -2934,6 +3335,7 @@
     "answer": "C"
   },
   {
+    "id": 304,
     "question": "_____ algorithms are a challenge to explainable AI, as their complexity makes it difficult to weigh attribute importance",
     "options": {
       "A": "deep learning",
@@ -2944,6 +3346,7 @@
     "answer": "A"
   },
   {
+    "id": 305,
     "question": "Which of the following are fundamental risk management tasks? (Select two.)",
     "options": {
       "A": "Mitigation",
@@ -2954,6 +3357,7 @@
     "answer": "AD"
   },
   {
+    "id": 306,
     "question": "Which of the following are best practices for incorporating inclusive design in AI projects? (Select two.)",
     "options": {
       "A": "Leverage customer input to reduce bias.",
@@ -2964,6 +3368,7 @@
     "answer": "AB"
   },
   {
+    "id": 307,
     "question": "When building a predictive model, what is the goal of the develop phase?",
     "options": {
       "A": "To get the model to accept new inputs, train, and repeat training until it finds a better curve",
@@ -2974,6 +3379,7 @@
     "answer": "A"
   },
   {
+    "id": 308,
     "question": "When building a predictive model, what is the goal of the training phase?",
     "options": {
       "A": "To adjust training methods from backpropagation to supervised learning to see how that affects outputs",
@@ -2984,6 +3390,7 @@
     "answer": "C"
   },
   {
+    "id": 309,
     "question": "Which of the following describes the black box problem in AI?",
     "options": {
       "A": "It is difficult to understand the nature of data being used to train an AI model.",
@@ -2994,6 +3401,7 @@
     "answer": "B"
   },
   {
+    "id": 310,
     "question": "Your organization has developed an AI system that recommends treatments for hospital patients. Some questions have been raised about the ethics of how these treatments are determined. What applied ethics domain do these concerns fall under?",
     "options": {
       "A": "Environmental ethics",
@@ -3004,7 +3412,8 @@
     "answer": "C"
   },
   {
-    "question": "Which of the following is a type of technology contract that establishes the goals of both parties and describes how those goals will be achieved?(073-356-8678)",
+    "id": 311,
+    "question": "Which of the following is a type of technology contract that establishes the goals of both parties and describes how those goals will be achieved?",
     "options": {
       "A": "Software as a Service (SaaS)",
       "B": "Service-level agreement (SLA)",
@@ -3014,6 +3423,7 @@
     "answer": "B"
   },
   {
+    "id": 312,
     "question": "Unknown Unknowns refer to",
     "options": {
       "A": "being unsure about the morals of the research team",
@@ -3024,6 +3434,7 @@
     "answer": "C"
   },
   {
+    "id": 313,
     "question": "Which type of fairness fails to address merit while maintaining accuracy?",
     "options": {
       "A": "equality of prediction rate",
@@ -3034,6 +3445,7 @@
     "answer": "B"
   },
   {
+    "id": 314,
     "question": "Which of the following ethical domains does the IEEE 7000 series explore? (Select two.)",
     "options": {
       "A": "Machine-readable privacy terms",
@@ -3044,6 +3456,7 @@
     "answer": "AC"
   },
   {
+    "id": 315,
     "question": "How is a Machine Learning (ML) system different from Deep Learning (DL) system?",
     "options": {
       "A": "A ML system learns from its mistakes.",
@@ -3054,6 +3467,7 @@
     "answer": "C"
   },
   {
+    "id": 316,
     "question": "A good example of empirical reflection in training data is",
     "options": {
       "A": "a model fails to recognize cultural differences due to incorrect attributes",
@@ -3064,6 +3478,7 @@
     "answer": "C"
   },
   {
+    "id": 317,
     "question": "What are the attributes of an error function when training a predictive model",
     "options": {
       "A": "the ratio of training data to actual data the model has consumed",
@@ -3074,6 +3489,7 @@
     "answer": "D"
   },
   {
+    "id": 318,
     "question": "Predictive loops in marketplace models like dating apps are especially susceptible to bias due to",
     "options": {
       "A": "fairness quotients",
@@ -3084,6 +3500,7 @@
     "answer": "D"
   },
   {
+    "id": 319,
     "question": "A goal of a fair model's accuracy standards is to",
     "options": {
       "A": "minimize the error rate as long as the training data isn't affected",
@@ -3094,6 +3511,7 @@
     "answer": "D"
   },
   {
+    "id": 320,
     "question": "Fairness is best defined as just treatment without __________",
     "options": {
       "A": "bias and contempt",
@@ -3104,7 +3522,8 @@
     "answer": "C"
   },
   {
-    "question": "What tools do researchers have to evaluate the fairness of existing black box models?(073-356-8678)",
+    "id": 321,
+    "question": "What tools do researchers have to evaluate the fairness of existing black box models?",
     "options": {
       "A": "Evaluate inputs, evaluate data",
       "B": "Change inputs, evaluate training data",
@@ -3114,6 +3533,17 @@
     "answer": "D"
   },
   {
+    "id": 322,
+    "question": "What shared principle from ethical frameworks is the primary reason for the consideration of human rights when building AI systems?",
+    "options": {
+      "A": "Fairness/non-discrimination",
+      "B": "Privacy",
+      "C": "Transparency"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 323,
     "question": "The ____ theorem states that all models have the same error rate when averaged over all possible data generating distributions.",
     "options": {
       "A": "biased aggregate",
@@ -3124,6 +3554,7 @@
     "answer": "D"
   },
   {
+    "id": 324,
     "question": "Why is accountability an important principle to include in governance structures for data-driven technologies?",
     "options": {
       "A": "Accountability in governance structures encourages all employees to feel responsible for building trustworthy systems.",
@@ -3134,6 +3565,7 @@
     "answer": "A"
   },
   {
+    "id": 325,
     "question": "As a cognitive bias, humans see lack of context/meaning around a piece of information and tend to",
     "options": {
       "A": "fill in gaps with existing knowledge",
@@ -3144,6 +3576,7 @@
     "answer": "A"
   },
   {
+    "id": 326,
     "question": "An auditing model is an example of a____bias mitigation method",
     "options": {
       "A": "sub-processing",
@@ -3154,6 +3587,7 @@
     "answer": "C"
   },
   {
+    "id": 327,
     "question": "A model that equalizes the number of mistakes it makes for each subgroup to reduce harm is deciding on",
     "options": {
       "A": "equality of true outcomes",
@@ -3164,16 +3598,19 @@
     "answer": "B"
   },
   {
-    "question": "Which of the following are actions that can help combat implicit bias? (Select three.) E. Obtaining your information from the same one or two media sources that your family and friends access.",
+    "id": 328,
+    "question": "Which of the following are actions that can help combat implicit bias? (Select three.)",
     "options": {
       "A": "Exposing yourself to \"counter-stereotypical\" examples.",
       "B": "Cultivating awareness of your own biases.",
       "C": "Surrounding yourself with others who have similar experiences.",
-      "D": "Interacting with diverse groups of people."
+      "D": "Interacting with diverse groups of people.",
+      "E": "Obtaining your information from the same one or two media sources that your family and friends access."
     },
     "answer": "BDA"
   },
   {
+    "id": 329,
     "question": "A major limitation of using explainable, adjustable algorithms is that users tend to make _",
     "options": {
       "A": "selfish",
@@ -3184,6 +3621,7 @@
     "answer": "A"
   },
   {
+    "id": 330,
     "question": "The pessimist view of general AI references a Scenario in which advancement is____",
     "options": {
       "A": "winner take all",
@@ -3194,6 +3632,7 @@
     "answer": "B"
   },
   {
+    "id": 331,
     "question": "If a coin is flipped, which of the following would ensure \"yes/no\" data is private while still remaining useful?",
     "options": {
       "A": "heads for yes, tails for no",
@@ -3204,6 +3643,7 @@
     "answer": "C"
   },
   {
+    "id": 332,
     "question": "Which of the following elements are important aspects of ethical integrity with regards to data? (Select two.)",
     "options": {
       "A": "If the holders of data are trustworthy entities.",
@@ -3214,6 +3654,7 @@
     "answer": "AB"
   },
   {
+    "id": 333,
     "question": "What is non-maleficence?",
     "options": {
       "A": "The principle of doing no harm.",
@@ -3224,6 +3665,7 @@
     "answer": "A"
   },
   {
+    "id": 334,
     "question": "Which of the following is NOT a common consideration when looking at the major ethical frameworks?",
     "options": {
       "A": "Humanity",
@@ -3234,6 +3676,7 @@
     "answer": "C"
   },
   {
+    "id": 335,
     "question": "What does a leadership champion do?",
     "options": {
       "A": "Make decisions based on company values even in the face of adversity.",
@@ -3244,6 +3687,7 @@
     "answer": "A"
   },
   {
+    "id": 336,
     "question": "One benefit of an explainable model is",
     "options": {
       "A": "recruiting leverage",
@@ -3254,6 +3698,7 @@
     "answer": "A"
   },
   {
+    "id": 337,
     "question": "Which type of fairness would make sense when dividing tickets evenly between groups?",
     "options": {
       "A": "equality of false positives",
@@ -3264,6 +3709,7 @@
     "answer": "C"
   },
   {
+    "id": 338,
     "question": "Which of the following defines the AI black box problem?",
     "options": {
       "A": "A dangerous machine intelligence put in a digital prison",
@@ -3274,6 +3720,7 @@
     "answer": "C"
   },
   {
+    "id": 339,
     "question": "What does the American Medical Association (AMA) say the \"A\" in AI should stand for?",
     "options": {
       "A": "Amplified",
@@ -3284,6 +3731,7 @@
     "answer": "B"
   },
   {
+    "id": 340,
     "question": "Which of the following describes the purpose of SIEM?",
     "options": {
       "A": "To launch simulated attacks on systems and networks.",
@@ -3294,6 +3742,7 @@
     "answer": "C"
   },
   {
+    "id": 341,
     "question": "Which of the following are potential ethical benefits of conducting pilot testing prior to the release of emerging technologies? (Select two.)",
     "options": {
       "A": "It certifies that a product's developers are legally accountable.",
@@ -3304,6 +3753,7 @@
     "answer": "BD"
   },
   {
+    "id": 342,
     "question": "Differential privacy works by adding what to a dataset?",
     "options": {
       "A": "filters",
@@ -3314,6 +3764,7 @@
     "answer": "C"
   },
   {
+    "id": 343,
     "question": "Are criminal justice risk assessments race-neutral?",
     "options": {
       "A": "No, the data is biased as it reflects historical bias.",
@@ -3324,7 +3775,8 @@
     "answer": "A"
   },
   {
-    "question": "An unintended negative outcome of programming a broad goal into general intelligence is known as (073-356-8678)",
+    "id": 344,
+    "question": "An unintended negative outcome of programming a broad goal into general intelligence is known as",
     "options": {
       "A": "an enduring output",
       "B": "artificial sanctification",
@@ -3334,6 +3786,7 @@
     "answer": "C"
   },
   {
+    "id": 345,
     "question": "How does increasing AI performance often conflict with the desire for explainability?",
     "options": {
       "A": "Increasing AI performance sometimes reduces the transparency of input data used in training, making it more difficult to explain decision-making processes.",
@@ -3344,6 +3797,7 @@
     "answer": "B"
   },
   {
+    "id": 346,
     "question": "A model that prioritizes equality on the outputs uses",
     "options": {
       "A": "error rate parity",
@@ -3354,6 +3808,7 @@
     "answer": "A"
   },
   {
+    "id": 347,
     "question": "Your organization has developed an Al system that recommends treatments for hospital patients. Some questions have been raised about the ethics of how these treatments are determined. What applied ethics domain do these concerns fall under?",
     "options": {
       "A": "Bioethics",
@@ -3364,6 +3819,7 @@
     "answer": "A"
   },
   {
+    "id": 348,
     "question": "For a model to clean, parse, and self-train it's own dataset while remaining impartial, the model needs",
     "options": {
       "A": "more powerful computing algorithms to auto-scrub data",
@@ -3374,6 +3830,7 @@
     "answer": "B"
   },
   {
+    "id": 349,
     "question": "How can you identify potential areas of concern for ethical practices when developing a code of ethics? (Select three).",
     "options": {
       "A": "Rely on the requirements of government regulations.",
