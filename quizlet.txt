@@ -530,7 +530,7 @@ Your business handles the personal data of California residents. Which of the fo
 
 A. COPPA
 B. OECD Privacy Guidelines
-C. CCAP
+C. CCPA
 D. PCI DSS
 C
 
